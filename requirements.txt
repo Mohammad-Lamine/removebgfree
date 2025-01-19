@@ -1,5 +1,5 @@
 streamlit==1.25.0
 rembg==2.0.61
-pillow==11.1.0
+pillow==9.3.0
 ultralytics
 opencv-python-headless
